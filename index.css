@@ -8,14 +8,18 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
+    border: 1px solid  #552586;
     margin-bottom: 4px;
+    min-width: 400px;
 }
 
 button {
-    background: #5f9341;
+    background:  #552586;
     color: white;
     padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 5px;
     border: none;
     font-weight: bold;
 }
@@ -31,5 +35,6 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color:  #552586;
+    text-decoration: none;
 }
