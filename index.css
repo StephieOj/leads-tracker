@@ -24,16 +24,6 @@ input {
     font-weight: bold;
 }
 
-#input-btn {
-    background:  #552586;
-    color: white;
-    padding: 10px 20px;
-    cursor: pointer;
-    border-radius: 5px;
-    margin-top: 5px;
-    border: 1px solid  #552586;
-    font-weight: bold;
-}
 
 #input-btn:hover {
     background:  #7e3ff2;
