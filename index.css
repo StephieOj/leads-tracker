@@ -13,15 +13,46 @@ input {
     min-width: 400px;
 }
 
-button {
+#input-btn {
     background:  #552586;
     color: white;
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5px;
     margin-top: 5px;
-    border: none;
+    border: 1px solid  #552586;
     font-weight: bold;
+}
+
+#input-btn {
+    background:  #552586;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: 1px solid  #552586;
+    font-weight: bold;
+}
+
+#input-btn:hover {
+    background:  #7e3ff2;
+}
+
+#delete-btn {
+    background:  white;
+    color: #552586;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: 1px solid  #552586;
+    font-weight: bold;
+}
+
+#delete-btn:hover {
+    background:  #7e3ff2;
+    color: white; 
 }
 
 ul {
